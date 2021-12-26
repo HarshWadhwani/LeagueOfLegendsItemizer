@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5d9e9124-5f2f-4b37-bdca-021316ed7ddd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/LolItemizerFE/.browserslistrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LolItemizerFE/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LolItemizerFE/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LolItemizerFE/.vscode/extensions.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LolItemizerFE/.vscode/launch.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LolItemizerFE/.vscode/tasks.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LolItemizerFE/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LolItemizerFE/angular.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LolItemizerFE/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LolItemizerFE/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LolItemizerFE/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LolItemizerFE/src/app/app-routing.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LolItemizerFE/src/app/app.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LolItemizerFE/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LolItemizerFE/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LolItemizerFE/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LolItemizerFE/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LolItemizerFE/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LolItemizerFE/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LolItemizerFE/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LolItemizerFE/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LolItemizerFE/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LolItemizerFE/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LolItemizerFE/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LolItemizerFE/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LolItemizerFE/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LolItemizerFE/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LolItemizerFE/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LolItemizerFE/tsconfig.spec.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="JPA Structure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="JPA Structure" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectId" id="22nN74wGlLCJ6Yt38Wm1SlvVlAo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/LolItemizerBE" />
+  </component>
+  <component name="RunManager">
+    <configuration name="LeagueOfLegendsItemizerApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GamerBeing.LeagueOfLegendsItemizer.LeagueOfLegendsItemizerApplication" />
+      <module name="LeagueOfLegendsItemizer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="GamerBeing.LeagueOfLegendsItemizer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LeagueOfLegendsItemizerApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5d9e9124-5f2f-4b37-bdca-021316ed7ddd" name="Changes" comment="" />
+      <created>1640469222417</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1640469222417</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
